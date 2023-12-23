@@ -7,3 +7,12 @@ Populate DB
 ```
 http://localhost:3000/seed
 ```
+
+Run Development/Local environment
+```
+npm run start:dev 
+```
+or
+```
+yarn start:dev
+```
